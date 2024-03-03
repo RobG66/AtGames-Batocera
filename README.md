@@ -3,9 +3,17 @@ Configuration settings for Atgames Legends Ultimate and Batocera
 
 Files:
 
-  ini.zip - Unzip and place in system\configs\mame\ini.  These files are optimized mame vector beam settings
+ALU_Mame_Custom_Configs.zip  
+- Unzip and place in system\configs\mame\custom.  Custom mame configs to use contols for racing, lightgun and paddle games.
+    mame.core=mame
+    mame.emulator=mame
+    mame.customcfg=1
 
-  batocera.conf_mame_vector_games.  Mame hlsl shared configurations for batocera.conf.  Make your vector games look better, like if you cannot see the bullets in asteroids.
+ini.zip
+- Unzip and place in system\configs\mame\ini.  These files are optimized mame vector beam settings
+
+batocera.conf_mame_vector_games
+- Mame hlsl shared configurations for batocera.conf.  Make your vector games look better, like if you cannot see the bullets in asteroids.
 
 
 
