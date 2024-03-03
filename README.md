@@ -7,7 +7,9 @@ ALU_Mame_Custom_Configs.zip
 - Unzip and place in system\configs\mame\custom.  Custom mame configs to use contols for racing, lightgun and paddle games.  Update batocera.conf to include:
 
    mame.core=mame
+  
    mame.emulator=mame
+  
    mame.customcfg=1
 
 ini.zip
