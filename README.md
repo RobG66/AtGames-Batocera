@@ -9,6 +9,7 @@ These files are optimized mame vector beam settings
 
 
 
+
 batocera.conf_mame_vector_games
 
 Mame hlsl shared configurations for batocera.conf.  Make your vector games look better, like if you cannot see the bullets in asteroids.
