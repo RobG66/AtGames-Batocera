@@ -4,10 +4,11 @@ Configuration settings for Atgames Legends Ultimate and Batocera
 Files:
 
 ALU_Mame_Custom_Configs.zip  
-- Unzip and place in system\configs\mame\custom.  Custom mame configs to use contols for racing, lightgun and paddle games.
-    mame.core=mame
-    mame.emulator=mame
-    mame.customcfg=1
+- Unzip and place in system\configs\mame\custom.  Custom mame configs to use contols for racing, lightgun and paddle games.  Update batocera.conf to include:
+
+   mame.core=mame
+   mame.emulator=mame
+   mame.customcfg=1
 
 ini.zip
 - Unzip and place in system\configs\mame\ini.  These files are optimized mame vector beam settings
