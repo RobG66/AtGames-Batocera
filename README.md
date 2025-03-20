@@ -1,4 +1,11 @@
 # AtGames-Batocera
+
+New settings coming soon for batocera.
+
+
+
+
+
 Configuration settings for Atgames Legends Ultimate and Batocera
 
 Files:
